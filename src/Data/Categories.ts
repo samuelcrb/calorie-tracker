@@ -1,4 +1,4 @@
-import type { Category } from "../Types/idex"
+import type { Category } from "../Types/Idex"
 
 export const categories : Category[] = [
     { id: 1, name: 'Comida' },
